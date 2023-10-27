@@ -7,6 +7,10 @@ Solution for the 1st assignment from the subject _'IZHV (Introduction to Game De
 
 To analyze an arbitrary game-related title based on its genre and style.
 
+## Result
+
+[exe1.pdf](exe1.pdf)
+
 ## Evaluation
 
 Paradox Interactive shows in Cities: Skylines that it is possible to create a modern version of SimCity that retains (and in many ways expands upon) its simulation aspects.
