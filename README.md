@@ -1,74 +1,37 @@
-# IZHV-Exercise01-2021
+# **IZHV-Project01-2021:**
 
-Solution for the 1st assignment from the course _'[IZHV (Introduction to Game Development)](https://www.fit.vut.cz/study/course/250838/)'_ for the academic year 2021/22 at VUT FIT. \
-Řešení 1. úkolu z předmětu _'[IZHV (Základy herního vývoje)](https://www.fit.vut.cz/study/course/250838/.cs)'_ pro akademický rok 2021/22 na VUT FIT.
+### Analysis of Game Mechanics Assignment
 
-## Task: Analysis of Game Mechanics Assignment
+> 🎓 **University**: [VUT FIT](https://www.fit.vut.cz/)
+>
+> 📚 **Course**: [Introduction to Game Development (IZHV)](https://www.fit.vut.cz/study/course/250838/)
+>
+> 📅 **Academic Year**: 2021/22
 
-### Objective:
+## 🎯 Task Overview
 
-Conduct a comprehensive analysis of a selected game-related title, focusing on its genres and style.
+This project involves a detailed analysis of a selected video game, with a focus on dissecting its core mechanics, genres, and visual style. The goal is to understand how these elements contribute to the game's overall experience and to articulate the interplay between the game's design and its reception by players.
 
-[Full Assignment Description](http://cphoto.fit.vutbr.cz/ludo/courses/izhv/exercises/e1/)
+Key objectives include:
 
----
+- **🏅 Genre Identification**: Classify the primary and secondary genres of the game, discussing their influence on gameplay and storytelling.
+- **🔍 Mechanics Analysis**: Examine the game's fundamental mechanics and their role in shaping a distinctive player experience.
+- **🖌️ Style Examination**: Describe the game's aesthetic and thematic style, looking at elements like graphics, art, and thematic coherence.
+- **🤔 Comparative Context**: Position the game within the broader landscape by comparing its mechanics and style to similar titles or other works by the same creator.
 
-### Task Details:
+The endgame of this analysis is to provide a comprehensive view of the game's design ethos and to contribute insightfully to the discourse on game development as both art and science.
 
-#### 1. **Header Information**:
-
-- **Full Name**: [Name] [Surname]
-- **Login**: [Login]
-- **Title**: [Name of the (serious) game]
-- **Released**: [Year of the initial release]
-- **Author**: [Author, game studio/publisher, or N/A if unknown]
-- **Primary Genre**: [Genre(s) of the core mechanics]
-- **Secondary Genre**: [Additional genre(s)]
-- **Style**: [Style of the game – realistic, cartoon, abstract, etc.]
-
-#### 2. **Analysis**:
-
-Provide your in-depth analysis here.
-
-#### 3. **Content**:
-
-- **Research**: Investigate the release year and the creator of the title. For re-iterations or "enhanced editions," ensure accuracy.
-
-- **Gameplay Examination**: Understand the primary genre by either playing or examining the game. Remember to reference your choice in the analysis.
-
-- **Secondary Genres**: Identify and define the secondary genres. Use Minecraft as a guide: role-playing sandbox (primary), casual building and roguelike in hardcore mode (secondary).
-
-- **Style Determination**: Assess the game's overarching style—whether visual, aural, tactile, etc. E.g., Minecraft might be seen as retro or cartoon-styled.
-
-- **Prose Analysis**: Dive into a detailed text analysis focusing on:
-  1.  Reflection of primary and secondary genres in the gameplay.
-  2.  Interaction between the primary and secondary genre, analyzing their positive or negative impacts.
-  3.  Evaluate the chosen style's impact on gameplay and reasoning behind its selection.
-
-#### 4. **Formatting & Submission**:
-
-- Adhere to this template's structure.
-- Utilize the provided LATEX template or mimic this layout in another text editor.
-- Structure your analysis section as you see fit; sub-sections or continuous prose are acceptable.
-- Ensure your document occupies only one A4 page.
-- Submit your work in pdf format following the course website's submission guidelines.
+For the nitty-gritty on the assignment requirements and what’s expected, check out the [Full Assignment Description](http://cphoto.fit.vutbr.cz/ludo/courses/izhv/exercises/e1/).
 
 ---
 
-### Recommendations:
+## 📄 Results
 
-- **Image Usage**: While images can enrich an analysis, use them sparingly or consider avoiding them to maintain focus on the text.
-- **Genre Taxonomy**: You're free to utilize any genre taxonomy, even beyond those mentioned in lectures, but ensure clarity.
-- **Length**: Keep your analysis concise to ensure it fits within the one-page limit.
+The results of my game analysis are compiled into a detailed [report](exe1.pdf), which you can find in the repository.
 
-Your analysis will be assessed based on thoroughness, understanding of genre and style, clarity of expression, and adherence to the assignment's structure. Ensure a balanced and insightful examination.
+## 📊 Evaluation Results
 
-## Result
+> Paradox Interactive shows in Cities: Skylines that it is possible to create a modern version of SimCity that retains (and in many ways expands upon) its simulation aspects.
 
-[exe1.pdf](exe1.pdf)
-
-## Evaluation
-
-Paradox Interactive shows in Cities: Skylines that it is possible to create a modern version of SimCity that retains (and in many ways expands upon) its simulation aspects.
-
-Total points: **6/6**
+🟢🟢🟢🟢🟢  
+**Total Points: 6/6**
