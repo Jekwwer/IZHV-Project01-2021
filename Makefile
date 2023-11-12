@@ -1,6 +1,7 @@
-# Project: IZHV-Exercise1
-# Autor:   Evgenii Shiliaev
-# Datum:   22.12.2021
+# Project:		IZHV-Project01
+# Repo Link:	https://github.com/Jekwwer/IZHV-Project01-2021
+# Autor:   		Evgenii Shiliaev
+# Datum:   		22.12.2021
 
 default: exe1.pdf clean
 
